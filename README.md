@@ -11,11 +11,13 @@ Fraction numbers format is 3_1/7 where
   
   1 = numerator
   
-  / = numerator/denominator
+  / = numerator/denominator separator
   
   7 = denominator
   
+
 Input examples:
 
 ? 1/5 + 1/7
+
 ? 3_2/3 - 2/6
